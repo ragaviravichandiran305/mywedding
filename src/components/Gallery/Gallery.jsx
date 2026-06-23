@@ -128,7 +128,7 @@ function Gallery() {
         </div>
       
       )}
-      
+      {/* Gallery Updated */}
     </div>
   );
 }
